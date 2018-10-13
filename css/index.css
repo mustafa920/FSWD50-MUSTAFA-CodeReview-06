@@ -87,7 +87,12 @@ a{
     -webkit-transform: rotate(360deg); /* Safari */
     transform: rotate(360deg);
 }
-
+#date{
+	background: lightblue;
+}
+#date-up{
+	background: lightgreen;
+}
 
 @media screen and (max-width: 480px) {
     #img {
